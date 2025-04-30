@@ -1,0 +1,439 @@
+---- ./requirements.txt ----
+Flask==3.0.2 
+
+---- ./codebase.py ----
+import os
+
+def generate_codebase_file():
+    with open('codebase.txt', 'w') as codebase_file:
+        for root, dirs, files in os.walk('.'):
+            # Skip __pycache__ directories
+            if '__pycache__' in dirs:
+                dirs.remove('__pycache__')
+            for file in files:
+                file_path = os.path.join(root, file)
+                # Write the file path as a header
+                codebase_file.write(f"---- {file_path} ----\n")
+                # Write the file content
+                with open(file_path, 'r') as f:
+                    codebase_file.write(f.read())
+                # Separate files with a newline
+                codebase_file.write("\n\n")
+
+generate_codebase_file()
+
+
+---- ./data.json ----
+[
+  {
+    "coordinates": "37.875994,-122.3412217",
+    "interaction_type": "INTERACTION 2",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-28T11:01:09.592780"
+  },
+  {
+    "coordinates": "37.875994,-122.3412217",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "open_ai",
+    "timestamp": "2025-04-28T11:01:15.892705"
+  },
+  {
+    "coordinates": "37.875994,-122.3412217",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "open_ai",
+    "timestamp": "2025-04-28T11:01:16.292571"
+  },
+  {
+    "coordinates": "37.875994,-122.3412217",
+    "interaction_type": "INTERACTION 3",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-28T11:01:22.055873"
+  },
+  {
+    "coordinates": "37.875994,-122.3412217",
+    "interaction_type": "INTERACTION 2",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-28T11:01:23.773546"
+  },
+  {
+    "coordinates": "37.875994,-122.3412217",
+    "interaction_type": "INTERACTION 3",
+    "ad_id": "ozempic_cookie",
+    "timestamp": "2025-04-28T11:21:08.474813"
+  },
+  {
+    "coordinates": "37.875994,-122.3412217",
+    "interaction_type": "INTERACTION 3",
+    "ad_id": "ozempic_cookie",
+    "timestamp": "2025-04-28T11:21:09.161065"
+  },
+  {
+    "coordinates": "37.875994,-122.3412217",
+    "interaction_type": "INTERACTION 3",
+    "ad_id": "ozempic_cookie",
+    "timestamp": "2025-04-28T11:21:09.781664"
+  }
+]
+
+---- ./api.py ----
+from flask import jsonify, request, abort
+import json
+import os
+import requests
+from datetime import datetime
+import pandas as pd
+
+DATA_FILE = 'data.json'
+
+def init_api_routes(app):
+    @app.route('/api/data', methods=['POST'])
+    def handle_data():
+        if not request.is_json:
+            abort(400, description="Invalid JSON")
+        
+        data = request.get_json()
+        coordinates = data.get('coordinates', '')
+        interaction_type = data.get('interaction_type', '')
+        ad_id = data.get('ad_id', '')
+        timestamp = datetime.now().isoformat()
+        new_entry = {
+            'coordinates': coordinates,
+            'interaction_type': interaction_type,
+            'ad_id': ad_id,
+            'timestamp': timestamp
+        }
+
+        if os.path.exists(DATA_FILE):
+            with open(DATA_FILE, 'r+') as f:
+                try:
+                    existing_data = json.load(f)
+                    if not isinstance(existing_data, list):
+                        existing_data = [existing_data]
+                except json.JSONDecodeError:
+                    existing_data = []
+                existing_data.append(new_entry)
+                f.seek(0)
+                json.dump(existing_data, f, indent=2)
+                f.truncate()
+        else:
+            with open(DATA_FILE, 'w') as f:
+                json.dump([new_entry], f, indent=2)
+
+        return jsonify({
+            'message': 'Data received and saved successfully',
+            'received_data': new_entry,
+            'method_used': request.method
+        }), 200 
+
+def make_post_request(url, coordinates, interaction_type, ad_id):
+    payload = {
+        'coordinates': coordinates,
+        'interaction_type': interaction_type,
+        'ad_id': ad_id
+    }
+    headers = {'Content-Type': 'application/json'}
+    response = requests.post(url, json=payload, headers=headers)
+    return response.json(), response.status_code
+
+def get_data_as_table():
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, 'r') as f:
+            try:
+                data = json.load(f)
+                if not isinstance(data, list):
+                    data = [data]
+                df = pd.DataFrame(data)
+                if not df.empty:
+                    summary = (
+                        df.groupby('ad_id')
+                        .size()
+                        .reset_index(name='Interactions')
+                    )
+                    summary['Earnings'] = summary['Interactions'] * 0.20
+                    # Format earnings to 2 decimal places
+                    summary['Earnings'] = summary['Earnings'].map(lambda x: f"${x:.2f}")
+                    print(summary)
+                    return summary.to_dict(orient='records')
+                else:
+                    return []
+            except json.JSONDecodeError:
+                return []
+    else:
+        return []
+    
+
+
+---- ./codebase.txt ----
+
+
+---- ./main.py ----
+from flask import Flask, render_template
+import json
+import os
+from collections import Counter
+
+from api import init_api_routes, DATA_FILE, get_data_as_table
+
+app = Flask(__name__)
+
+@app.route('/')
+def show_data():
+    # load existing data
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, 'r') as f:
+            try:
+                data = json.load(f)
+            except json.JSONDecodeError:
+                data = []
+    else:
+        data = []
+
+    # count occurrences of each ad_id
+    ad_counts = Counter(entry.get('ad_id', '') for entry in data)
+
+    earnings_table = get_data_as_table()
+
+    return render_template('index.html',
+                           data=data,
+                           ad_counts=ad_counts,
+                           earnings_table=earnings_table)
+
+@app.route('/send_data')
+def send_data():
+    return render_template('send_data.html')
+
+# Initialize API routes
+init_api_routes(app)
+
+if __name__ == '__main__':
+    app.run(debug=True, host='0.0.0.0', port=3000)
+
+
+---- ./templates/index.html ----
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+    <!-- Bootstrap CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif; /* Improved font for the whole page */
+        }
+        .top-section {
+            height: auto;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding-top: 20px;
+        }
+        .box-container {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+        }
+        .info-box {
+            width: 300px; /* Increased width */
+            height: 150px; /* Increased height */
+            background-color: #f8f9fa;
+            border: 2px solid #b4b7bb;
+            border-radius: 15px; /* More rounded corners */
+            display: flex;
+            flex-direction: column;      /* stack items vertically */
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            font-size: 1.2em;            /* slightly smaller so longer text fits */
+            text-align: center;          /* wrap neatly */
+            padding: 10px;
+        }
+        .bottom-section {
+            flex-grow: 1;
+            overflow-y: auto;
+            display: flex;
+            align-items: flex-end; /* Aligns the table to the bottom */
+        }
+        .divider {
+            border-top: 2px solid #000;
+            margin: 20px 0;
+        }
+        .container-fluid {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        .table-container {
+            max-height: 200px; /* Adjust this height to fit approximately 5 rows */
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container-fluid">
+        <div class="top-section">
+            <h1>Dashboard</h1>
+        </div>
+        <div class="divider"></div>
+        <!-- in templates/index.html, inside <body> -->
+            <div class="container my-4">
+            <div class="row g-3">
+                <!-- Box 1: Ad Counts -->
+                <div class="col-md-3">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-header text-center" style="background-color: #007bff; color: #ffffff;">
+                    <h6 class="mb-0">Interaction Counts</h6>
+                    </div>
+                    <div class="card-body p-0">
+                    <table class="table table-striped mb-0 text-center">
+                        <thead>
+                            <tr>
+                                <th>Brand</th>
+                                <th>Count</th>
+                                <th>Earnings</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        {% if ad_counts %}
+                            {% for ad_id, count in ad_counts.items() %}
+                            <tr>
+                                <td>{{ ad_id }}</td>
+                                <td style="color: #000000;">{{ count }}</td>
+                                <td>{{ earnings_table[ad_id] }}</td>
+                            </tr>
+                            {% endfor %}
+                        {% else %}
+                            <tr>
+                                <td colspan="2" class="text-muted text-center">No ads yet</td>
+                            </tr>
+                        {% endif %}
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+                </div>
+                <div class="col-md-3">
+                <div class="card h-100 shadow-sm text-center">
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                    Box 2
+                    </div>
+                </div>
+                </div>
+                <div class="col-md-3">
+                <div class="card h-100 shadow-sm text-center">
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                    Box 3
+                    </div>
+                </div>
+                </div>
+                <div class="col-md-3">
+                <div class="card h-100 shadow-sm text-center">
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                    Box 4
+                    </div>
+                </div>
+                </div>
+            </div>
+            </div>
+
+        <div class="bottom-section">
+            <div class="container table-container">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Coordinates</th>
+                            <th>Interaction</th>
+                            <th>Ad ID</th>
+                            <th>Timestamp</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% for entry in data %}
+                        <tr>
+                            <td>{{ entry.coordinates }}</td>
+                            <td>{{ entry.interaction_type }}</td>
+                            <td>{{ entry.ad_id }}</td>
+                            <td>{{ entry.timestamp }}</td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+---- ./templates/send_data.html ----
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Send Data</title>
+    <!-- Bootstrap CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h1>Send Data</h1>
+        <form id="dataForm">
+            <div class="row mb-3">
+                <div class="col">
+                    <label for="latitude" class="form-label">Latitude</label>
+                    <input type="text" class="form-control" id="latitude" name="latitude" value="37.875994" required>
+                </div>
+                <div class="col">
+                    <label for="longitude" class="form-label">Longitude</label>
+                    <input type="text" class="form-control" id="longitude" name="longitude" value="-122.3412217" required>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col">
+                    <label for="interaction_type" class="form-label">Interaction Type</label>
+                    <select class="form-control" id="interaction_type" name="interaction_type" required>
+                        <option value="INTERACTION 1">INTERACTION 1</option>
+                        <option value="INTERACTION 2">INTERACTION 2</option>
+                        <option value="INTERACTION 3">INTERACTION 3</option>
+                    </select>
+                </div>
+                <div class="col">
+                    <label for="ad_id" class="form-label">Ad ID</label>
+                    <select class="form-control" id="ad_id" name="ad_id" required>
+                        <option value="google_lens">google_lens</option>
+                        <option value="ozempic_cookie">ozempic_cookie</option>
+                        <option value="open_ai">open_ai</option>
+                    </select>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Send</button>
+        </form>
+        <div id="responseMsg" class="mt-3"></div>
+    </div>
+    <script>
+        document.getElementById('dataForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const latitude = document.getElementById('latitude').value;
+            const longitude = document.getElementById('longitude').value;
+            const interaction_type = document.getElementById('interaction_type').value;
+            const ad_id = document.getElementById('ad_id').value;
+
+            const coordinates = `${latitude},${longitude}`;
+
+            const response = await fetch('/api/data', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    coordinates,
+                    interaction_type,
+                    ad_id
+                })
+            });
+
+            const result = await response.json();
+            document.getElementById('responseMsg').innerText = result.message || 'Error sending data';
+        });
+    </script>
+</body>
+</html>
+
