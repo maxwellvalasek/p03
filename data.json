@@ -68,5 +68,460 @@
     "ad_id": "ozempic_cookie",
     "timestamp": "2025-04-28T11:48:47.699636",
     "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T10:42:56.362403",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T10:43:58.578729",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T10:46:30.310186",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:18:52.780334",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-04-30T11:21:19.373738",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:26.908875",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:30.654058",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:32.280442",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:33.752731",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:34.913643",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:37.405955",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:46.375322",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:48.397267",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:49.561461",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:50.861063",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:52.212356",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:54.639744",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:56.212391",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:57.325990",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:25:59.989175",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:26:20.919147",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:26:28.383122",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:26:30.052975",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:26:32.779970",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:26:34.609684",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:26:36.602883",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:26:37.650357",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:27:29.002538",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:27:31.492049",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:27:32.708439",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:28:16.190579",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:28:17.023400",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:28:19.768918",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:28:20.465376",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:01.532781",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:02.174341",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:02.953069",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:04.046399",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:11.708966",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:15.806429",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:17.098519",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:18.071054",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:31:19.223556",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:36:56.497987",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:00.096010",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:00.587994",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:06.536398",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:10.447175",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:12.896073",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:19.350607",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:33.579661",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:36.503686",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:38.392729",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:38.894011",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:37:39.849136",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "snapchat_filter",
+    "timestamp": "2025-04-30T11:42:27.160440",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:45:44.342744",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-04-30T11:45:49.760408",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-04-30T11:45:51.232041",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:45:56.136279",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-04-30T11:45:58.485028",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-04-30T11:46:01.767020",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-04-30T11:46:02.855721",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:46:50.327477",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875994, -122.3412217)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-04-30T11:47:15.177744",
+    "earnings": 0.2
   }
 ]

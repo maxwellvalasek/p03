@@ -11,16 +11,6 @@
         <form id="dataForm">
             <div class="row mb-3">
                 <div class="col">
-                    <label for="latitude" class="form-label">Latitude</label>
-                    <input type="text" class="form-control" id="latitude" name="latitude" value="37.875994" required>
-                </div>
-                <div class="col">
-                    <label for="longitude" class="form-label">Longitude</label>
-                    <input type="text" class="form-control" id="longitude" name="longitude" value="-122.3412217" required>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col">
                     <label for="interaction_type" class="form-label">Interaction Type</label>
                     <select class="form-control" id="interaction_type" name="interaction_type" required>
                         <option value="INTERACTION 1">INTERACTION 1</option>
@@ -44,12 +34,8 @@
     <script>
         document.getElementById('dataForm').addEventListener('submit', async function(e) {
             e.preventDefault();
-            const latitude = document.getElementById('latitude').value;
-            const longitude = document.getElementById('longitude').value;
             const interaction_type = document.getElementById('interaction_type').value;
             const ad_id = document.getElementById('ad_id').value;
-
-            const coordinates = `${latitude},${longitude}`;
 
             const response = await fetch('/api/data', {
                 method: 'POST',
@@ -57,7 +43,6 @@
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                    coordinates,
                     interaction_type,
                     ad_id
                 })

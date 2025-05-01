@@ -3,7 +3,7 @@ import json
 import os
 from collections import Counter
 
-from api import init_api_routes, DATA_FILE, get_data_as_table, get_total_earnings
+from api import init_api_routes, DATA_FILE, get_data_as_table, get_total_earnings, get_earnings_today
 
 app = Flask(__name__)
 
@@ -24,12 +24,14 @@ def show_data():
 
     earnings_table = get_data_as_table()
     total_earnings = get_total_earnings()
+    earnings_today = get_earnings_today()
 
     return render_template('index.html',
                            data=data,
                            ad_counts=ad_counts,
                            earnings_table=earnings_table,
-                           total_earnings=total_earnings)
+                           total_earnings=total_earnings,
+                           earnings_today=earnings_today)
 
 @app.route('/send_data')
 def send_data():
