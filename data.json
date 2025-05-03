@@ -677,5 +677,40 @@
     "ad_id": "google_lens",
     "timestamp": "2025-05-03T09:39:34.028100",
     "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-03T10:30:09.841784",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-03T10:39:47.627446",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-03T10:39:56.501805",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-03T10:40:02.988122",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-03T10:40:39.808485",
+    "earnings": 0.2
   }
 ]

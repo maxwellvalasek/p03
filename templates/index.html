@@ -9,107 +9,95 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
+        /* --------------- COLOR PALETTE --------------- */
         :root {
+            --primary: #222222;   /* Renamed from --teal */
+            --secondary: #F57371;  /* Renamed from --coral */
+            --tertiary: #597497;   /* Renamed from --steel */
+            --accent: #D43D8A;    /* Renamed from --magenta */
+            --dark: #000000;       /* Renamed from --purple */
             --radius: 1rem;
+            
+            /* --- Background Gradient Colors (using hex equivalents) --- */
+            --gradient-dark: #222222;       /* Hex equivalent of var(--dark) */
+            --gradient-accent: #68ACA3;     /* Hex equivalent of var(--accent) */
+            --gradient-secondary: #020101;  /* Hex equivalent of var(--secondary) */
+            --gradient-primary: #68ACA3;    /* Hex equivalent of var(--primary) */
+            --gradient-tertiary: #222222;   /* Hex equivalent of var(--tertiary) */
         }
+
+        /* --------------- GLOBAL --------------- */
+        html, body { height: 100%; }
 
         body {
             font-family: "Arial", sans-serif;
-            background-color: #f8f9fa;
-            height: 100vh;
+            background: linear-gradient(135deg,
+                        var(--gradient-dark) 0%,     /* Use gradient-specific vars (renamed) */
+                        var(--gradient-accent) 25%,
+                        var(--gradient-secondary) 50%,
+                        var(--gradient-primary) 75%,
+                        var(--gradient-tertiary) 100%);
+            background-attachment: fixed;
+            color: #fff;
             display: flex;
             flex-direction: column;
         }
 
-        /* ---------- COMPONENTS ---------- */
-        .card {
-            border: none;
+        /* subtle glass effect */
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.15);
             border-radius: var(--radius);
-            box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+            backdrop-filter: blur(6px);
+            -webkit-backdrop-filter: blur(6px);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
         }
 
-        .stat-label {
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            color: #6c757d;
-        }
+        /* --------------- NAVBAR --------------- */
+        .navbar { background: var(--dark); } /* Updated */
+        .navbar-brand { font-weight: 700; letter-spacing: 2px; color: #fff !important; }
 
-        .stat-value {
-            font-weight: 700;
-        }
+        /* --------------- CARD COMPONENT --------------- */
+        .card { border: none; border-radius: var(--radius); overflow: hidden; }
+        .card-title { background: var(--primary); color: #fff; padding: 0.5rem; margin: 0; font-weight: 600; letter-spacing: .5px; } /* Updated */
+        .card-body { background: rgba(0, 0, 0, 0.10); color: #fff; }
 
-        /* ---------- LAYOUT ---------- */
-        .navbar-brand {
-            font-weight: 700;
-            letter-spacing: 2px;
-        }
+        /* KPI numbers */
+        .stat-label { font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--tertiary); } /* Updated */
+        .stat-value { font-weight: 700; color: var(--dark); } /* Updated */
+        .kpi-title { font-size: 1.5rem; color: var(--secondary); } /* Updated */
 
-        .table-responsive {
-            max-height: 260px;
-            overflow-y: auto;
-        }
+        /* Tables */
+        .table-responsive::-webkit-scrollbar-thumb { background-color: var(--accent); } /* Updated */
 
-        .table-responsive::-webkit-scrollbar {
-            width: 6px;
-        }
+        /* Map iframes */
+        iframe { border: none; border-radius: 0 0 var(--radius) var(--radius); }
 
-        .table-responsive::-webkit-scrollbar-thumb {
-            background-color: rgba(0, 0, 0, 0.15);
-            border-radius: 3px;
-        }
-
-        .equal-height {
-            display: flex;
-            flex-direction: column;
-            height: 100%;
-        }
-
-        .kpi-title {
-            font-size: 1.5rem; /* Increase font size for All-Time and Today */
-        }
-
-        .flex-grow-1 {
-            flex-grow: 1;
-        }
-
-        .full-height {
-            height: calc(100vh - 112px); /* Adjust height to fill the screen minus navbar and margin */
-        }
-
-        .centered-text {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100%;
-            font-size: 2rem;
-            color: #6c757d;
-        }
+        /* Bounding‑box display */
+        #map-today-bounds-display { color: var(--tertiary); } /* Updated */
     </style>
 </head>
 
 <body>
     <!-- Brand / Title -->
-    <nav class="navbar navbar-light bg-white mb-4 shadow-sm">
+    <nav class="navbar navbar-dark mb-4 shadow-sm">
         <div class="container"><span class="navbar-brand mb-0 h1">AdWalk</span></div>
     </nav>
 
-    <div class="container flex-grow-1">
+    <div class="container glass-panel p-4 flex-grow-1">
         <!-- KPI row -->
         <div class="row g-4">
-            <!-- All‑time data (mirrors daily layout) -->
-            <div class="col-md-4">
-                <div class="card equal-height text-center h-100">
+            <!-- All‑time data -->
+            <div class="col-md-6">
+                <div class="card h-100">
+                    <h5 class="card-title text-center">All‑Time</h5>
                     <div class="card-body d-flex flex-column justify-content-center">
-                        <div class="text-center mb-3"><span class="stat-label kpi-title">All‑Time</span></div>
                         <div class="row text-center align-items-center">
-                            <div class="col-6 border-end">
-                                <span id="interactions-total" class="stat-value h2">0</span><br>
+                            <div class="col-6 border-end border-secondary-subtle">
+                                <span id="interactions-total" class="stat-value display-6">0</span><br>
                                 <span class="stat-label">Interactions</span>
                             </div>
                             <div class="col-6">
-                                <span id="earnings-total"
-                                    class="stat-value h2">${{ '%.2f'|format(total_earnings) }}</span><br>
+                                <span id="earnings-total" class="stat-value display-6">${{ '%.2f'|format(total_earnings) }}</span><br>
                                 <span class="stat-label">Earnings</span>
                             </div>
                         </div>
@@ -117,19 +105,18 @@
                 </div>
             </div>
 
-            <!-- Today's data (unchanged) -->
-            <div class="col-md-8">
-                <div class="card h-100 equal-height">
+            <!-- Today's data -->
+            <div class="col-md-6">
+                <div class="card h-100">
+                    <h5 class="card-title text-center">Today</h5>
                     <div class="card-body d-flex flex-column justify-content-center">
-                        <div class="text-center mb-3"><span class="stat-label kpi-title">Today</span></div>
                         <div class="row text-center align-items-center">
-                            <div class="col-6 border-end">
-                                <span class="stat-value h2" id="interactions-today">0</span><br>
+                            <div class="col-6 border-end border-secondary-subtle">
+                                <span id="interactions-today" class="stat-value display-6">0</span><br>
                                 <span class="stat-label">Interactions</span>
                             </div>
                             <div class="col-6">
-                                <span class="stat-value h2"
-                                    id="earnings-today">${{ '%.2f'|format(earnings_today) }}</span><br>
+                                <span id="earnings-today" class="stat-value display-6">${{ '%.2f'|format(earnings_today) }}</span><br>
                                 <span class="stat-label">Earnings</span>
                             </div>
                         </div>
@@ -139,154 +126,71 @@
         </div>
 
         <!-- Map Row -->
-        <div class="row g-4 mt-4" style="height: 60vh;"> 
-            <!-- All-Time Map Column -->
-            <div class="col-md-6 h-100">
-                <div class="card w-100 h-100">
-                    <div class="card-body d-flex flex-column p-0"> 
-                        <h5 class="card-title text-center pt-2">All-Time Map</h5>
-                        <iframe src="/map" style="width: 100%; height: 100%; border: none; flex-grow: 1;"></iframe>
-                    </div>
+        <div class="row g-4 mt-4" style="height:60vh;">
+            <!-- All-Time Map -->
+            <div class="col-md-6 h-100 d-flex flex-column">
+                <div class="card flex-grow-1">
+                    <h5 class="card-title text-center">All‑Time Map</h5>
+                    <iframe src="/map" class="w-100 flex-grow-1"></iframe>
                 </div>
             </div>
-            <!-- Today Map Column -->
-            <div class="col-md-6 d-flex flex-column"> 
-                <div class="card w-100 h-100"> 
-                    <div class="card-body d-flex flex-column p-0"> 
-                        <h5 class="card-title text-center pt-2">Today's Map</h5>
-                        <iframe src="/map_today" style="width: 100%; height: 100%; border: none; flex-grow: 1;"></iframe>
-                    </div>
+            <!-- Today Map -->
+            <div class="col-md-6 h-100 d-flex flex-column">
+                <div class="card flex-grow-1">
+                    <h5 class="card-title text-center">Today's Map</h5>
+                    <iframe src="/map_today" class="w-100 flex-grow-1"></iframe>
                 </div>
-                <!-- Display for Today Map bounds (restored) -->
-                <div id="map-today-bounds-display" class="mt-1 text-muted small">Map Bounds: Loading...</div>
+                <!-- Removed map bounds display div -->
+                <!-- <div id="map-today-bounds-display" class="mt-1 small">Map Bounds: Loading...</div> -->
             </div>
         </div>
     </div>
 
-    <!-- Real‑time updates -->
+    <!-- Real‑time updates (unchanged) -->
     <script>
         function updateDashboard(data) {
-            // All‑time
             document.getElementById('interactions-total').textContent = data.total_interactions;
             document.getElementById('earnings-total').textContent = `$${data.total_earnings.toFixed(2)}`;
-            // Today
             document.getElementById('interactions-today').textContent = data.interactions_today;
             document.getElementById('earnings-today').textContent = `$${data.earnings_today.toFixed(2)}`;
-            // Table (optional)
-            const tableBody = document.getElementById('interaction-table');
-            if (tableBody) {
-                tableBody.innerHTML = '';
-                data.table.forEach(row => {
-                    const tr = document.createElement('tr');
-                    tr.innerHTML =
-                        `<td>${row.ad_id}</td><td>${row.Interactions}</td><td>$${row.Earnings.toFixed(2)}</td>`;
-                    tableBody.appendChild(tr);
-                });
-            }
-
-            // Refresh maps if data was updated (new entries added)
             if (data.data_updated) {
-                console.log("New data detected, refreshing maps at", data.timestamp);
-                
-                // Store current scroll position
-                const scrollPos = window.scrollY;
-                
-                // Refresh both maps with cache-busting timestamp
-                const timestamp = new Date().getTime();
-                const allTimeMapIframe = document.querySelector('iframe[src^="/map"]');
-                const todayMapIframe = document.querySelector('iframe[src^="/map_today"]');
-                
-                if (allTimeMapIframe) {
-                    allTimeMapIframe.src = `/map?t=${timestamp}`;
-                }
-                
-                if (todayMapIframe) {
-                    todayMapIframe.src = `/map_today?t=${timestamp}`;
-                }
-                
-                // Restore scroll position after refresh
-                window.scrollTo(0, scrollPos);
+                const t = Date.now();
+                document.querySelector('iframe[src^="/map" ]').src = `/map?t=${t}`;
+                document.querySelector('iframe[src^="/map_today" ]').src = `/map_today?t=${t}`;
             }
         }
-        const eventSource = new EventSource('/api/events');
-        eventSource.onmessage = e => updateDashboard(JSON.parse(e.data));
-        eventSource.onerror = err => {
-            console.error('EventSource failed:', err);
-            eventSource.close();
-        };
+        const es = new EventSource('/api/events');
+        es.onmessage = e => updateDashboard(JSON.parse(e.data));
+        es.onerror = err => (console.error('EventSource failed:', err), es.close());
     </script>
 
-    <!-- Restore Today Map Bounding Box and Cursor Coordinate Display Logic -->
-    <script>
+    <!-- Removed Map bounding‑box / cursor coords logic -->
+    <!-- <script>
         const todayIframe = document.querySelector('iframe[src="/map_today"]');
         const todayBoundsDisplay = document.getElementById('map-today-bounds-display');
-        let currentBoundsText = 'Map Bounds: Loading...'; // Store bounds text separately
-        let currentCursorText = ''; // Store cursor text separately
-
-        function updateDisplay() {
-            todayBoundsDisplay.textContent = currentBoundsText + (currentCursorText ? ` | ${currentCursorText}` : '');
-        }
-
+        let boundsText = 'Map Bounds: Loading...';
+        let cursorText = '';
+        const renderText = () => todayBoundsDisplay.textContent = boundsText + (cursorText ? ` | ${cursorText}` : '');
+        renderText();
         todayIframe.onload = () => {
-            console.log("/map_today iframe loaded.");
             try {
-                const iframeWindow = todayIframe.contentWindow;
-                // Find the Leaflet map variable (usually starts with 'map_')
-                const mapVar = Object.keys(iframeWindow).find(k => k.startsWith('map_') && iframeWindow[k] && typeof iframeWindow[k].getBounds === 'function');
-                console.log("Found map variable name:", mapVar);
-
-                const leafletMap = iframeWindow[mapVar];
-                console.log("Leaflet map object found:", leafletMap ? 'Yes' : 'No');
-
-                if (leafletMap) {
-                    const updateTodayBoundsDisplay = () => {
-                        try {
-                            const bounds = leafletMap.getBounds();
-                            const sw = bounds.getSouthWest();
-                            const ne = bounds.getNorthEast();
-                            currentBoundsText =
-                                `Map Bounds: SW(${sw.lat.toFixed(4)}, ${sw.lng.toFixed(4)}) ` +
-                                `NE(${ne.lat.toFixed(4)}, ${ne.lng.toFixed(4)})`;
-                        } catch (mapError) {
-                            currentBoundsText = 'Map Bounds: Error getting bounds.';
-                            console.error('Error getting map bounds:', mapError);
-                        }
-                        updateDisplay(); // Update the combined display
-                    };
-
-                    // Initial bounds display
-                    updateTodayBoundsDisplay();
-
-                    // Update bounds on map move/zoom
-                    leafletMap.on('moveend', updateTodayBoundsDisplay);
-
-                    // Add mousemove listener for cursor coordinates
-                    leafletMap.on('mousemove', (e) => {
-                        currentCursorText = `Cursor: (${e.latlng.lat.toFixed(4)}, ${e.latlng.lng.toFixed(4)})`;
-                        updateDisplay();
-                    });
-
-                    // Clear cursor coordinates when mouse leaves the map
-                    leafletMap.on('mouseout', () => {
-                        currentCursorText = '';
-                        updateDisplay();
-                    });
-
-                } else {
-                    currentBoundsText = 'Map Bounds: Error finding map object.';
-                    updateDisplay();
-                    console.error('Could not find Leaflet map object in /map_today iframe.');
-                }
-            } catch (error) {
-                 currentBoundsText = 'Map Bounds: Error accessing iframe content.';
-                 updateDisplay();
-                 console.error('Error accessing /map_today iframe content or map object:', error);
-            }
+                const win = todayIframe.contentWindow;
+                const mapVar = Object.keys(win).find(k => k.startsWith('map_') && typeof win[k]?.getBounds === 'function');
+                const map = win[mapVar];
+                const upd = () => {
+                    const b = map.getBounds();
+                    const sw = b.getSouthWest();
+                    const ne = b.getNorthEast();
+                    boundsText = `Map Bounds: SW(${sw.lat.toFixed(4)}, ${sw.lng.toFixed(4)}) NE(${ne.lat.toFixed(4)}, ${ne.lng.toFixed(4)})`;
+                    renderText();
+                };
+                upd();
+                map.on('moveend', upd);
+                map.on('mousemove', e => (cursorText = `Cursor: (${e.latlng.lat.toFixed(4)}, ${e.latlng.lng.toFixed(4)})`, renderText()));
+                map.on('mouseout', () => (cursorText = '', renderText()));
+            } catch { boundsText = 'Map Bounds: Error'; renderText(); }
         };
-
-        // Initial display update
-        updateDisplay();
-    </script>
+    </script> -->
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

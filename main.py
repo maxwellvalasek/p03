@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import json
 import os
+import pandas as pd
 from folium import Map, Element
 import folium
 from folium.plugins import HeatMap, MarkerCluster
@@ -8,6 +9,8 @@ from datetime import datetime
 from collections import Counter
 from api import init_api_routes, DATA_FILE, get_data_as_table, get_total_earnings, get_earnings_today
 import ast
+import tempfile
+import shutil
 
 app = Flask(__name__)
 
@@ -30,17 +33,38 @@ def show_data():
                            total_earnings=get_total_earnings(),
                            earnings_today=get_earnings_today())
 
+@app.route('/land')
+def land_page():
+    # Renders the land.html template
+    return render_template('land.html')
+
 @app.route('/send_data')
 def send_data():
     return render_template('send_data.html')
 
+@app.route('/testhome')
+def testhome_page():
+    # Renders the testhome.html template
+    return render_template('testhome.html')
+
 @app.route('/map')
 def map_view():
-    # Cache-busting timestamp is ignored (available as request.args.get('t'))
     combined_coords = []
     valid_coords_exist = False
 
-    # Load data from data.json
+    # 1. Read from coords.csv (Assuming this should still be included based on previous state)
+    coords_file = 'coords.csv'
+    if os.path.exists(coords_file):
+        try:
+            df_coords = pd.read_csv(coords_file)
+            coords_csv_list = df_coords[['lat', 'lon']].dropna().values.tolist()
+            combined_coords.extend(coords_csv_list)
+            if coords_csv_list:
+                 valid_coords_exist = True
+        except Exception as e:
+            print(f"Error processing {coords_file} for /map: {e}")
+
+    # 2. Read from data.json
     if os.path.exists(DATA_FILE):
         try:
             with open(DATA_FILE, 'r') as f:
@@ -54,82 +78,80 @@ def map_view():
         except (json.JSONDecodeError, IOError) as e:
             print(f"Error reading or parsing {DATA_FILE} for /map: {e}")
 
-    # --- Static Map Setup (using combined data) ---
     if valid_coords_exist:
-         min_lat = min(c[0] for c in combined_coords)
-         max_lat = max(c[0] for c in combined_coords)
-         min_lon = min(c[1] for c in combined_coords)
-         max_lon = max(c[1] for c in combined_coords)
-         padding = 0.001 
-         if min_lat == max_lat: min_lat -= padding; max_lat += padding
-         if min_lon == max_lon: min_lon -= padding; max_lon += padding
-         fit_bounds_coords = [[min_lat, min_lon], [max_lat, max_lon]]
+        min_lat = min(c[0] for c in combined_coords)
+        max_lat = max(c[0] for c in combined_coords)
+        min_lon = min(c[1] for c in combined_coords)
+        max_lon = max(c[1] for c in combined_coords)
+        padding = 0.001 
+        if min_lat == max_lat: min_lat -= padding; max_lat += padding
+        if min_lon == max_lon: min_lon -= padding; max_lon += padding
+        fit_bounds_coords = [[min_lat, min_lon], [max_lat, max_lon]]
     else:
         fit_bounds_coords = [[37.8, -122.4], [37.9, -122.3]] # Default view
 
     m = Map(
             tiles="CartoDB positron",
-            zoom_control=False,
-            scrollWheelZoom=False,
-            dragging=False,
-            touchZoom=False,
-            doubleClickZoom=False,
-            boxZoom=False
+        zoom_control=False,
+        scrollWheelZoom=False,
+        dragging=False,
+        touchZoom=False,
+        doubleClickZoom=False,
+        boxZoom=False
     )
     
     m.fit_bounds(fit_bounds_coords)
 
-    # Add a timestamp to the HTML to prevent browser caching
-    timestamp = datetime.now().strftime('%Y%m%d%H%M%S')
-    map_filename = f"templates/map_render_{timestamp}.html"
-
     if combined_coords:
-        HeatMap(combined_coords, radius=13, blur=12, min_opacity=0.3).add_to(m)
+        HeatMap(combined_coords, radius=13, blur=12, min_opacity=0.3).add_to(m) # Adjusted radius from user prompt
 
-        # Update icon function to use $0.20 per marker
         icon_create_function = '''
         function(cluster) {
             var markers = cluster.getAllChildMarkers();
-            var totalValue = markers.length * 0.20; // Use $0.20 per interaction
+                var totalValue = markers.length * 0.20;
             var displayValue = '$' + totalValue.toFixed(2);
             var style = `
                 background: linear-gradient(135deg, #ffffff 60%, #e3f0ff 100%);
-                height: 28px; padding: 0 10px; border-radius: 14%; display: flex;
-                justify-content: center; align-items: center; font-size: 1.3em;
-                font-weight: 900; color: #1a237e; box-shadow: 0 2px 10px rgba(30,60,120,0.18);
-                text-shadow: 0 2px 8px #fff, 0 0 2px #1976d2, 0 0 8px #fff; user-select: none; opacity: 0.75;
+                    height: 28px; padding: 0 10px; border-radius: 14%; display: flex;
+                    justify-content: center; align-items: center; font-size: 1.3em;
+                    font-weight: 900; color: #1a237e; box-shadow: 0 2px 10px rgba(30,60,120,0.18);
+                    text-shadow: 0 2px 8px #fff, 0 0 2px #1976d2, 0 0 8px #fff; user-select: none; opacity: 0.75;
             `;
             return new L.DivIcon({
-                html: '<div style="' + style + '">' + displayValue + '</div>',
+                    html: '<div style="' + style + '">' + displayValue + '</div>',
                 className: 'my-custom-cluster-icon-with-bg',
                 iconSize: [48, 48]
              });
         }
         '''
-        marker_cluster = MarkerCluster(
-            icon_create_function=icon_create_function
-        ).add_to(m)
+        marker_cluster = MarkerCluster(icon_create_function=icon_create_function).add_to(m)
 
-        # Add markers for all combined coords
         for lat, lon in combined_coords:
             folium.Marker(
                 location=[lat, lon],
-                popup=f"Lat: {lat:.4f}, Lon: {lon:.4f}" # Simplified popup
+                popup=f"Lat: {lat:.4f}, Lon: {lon:.4f}"
             ).add_to(marker_cluster)
 
-    m.save(map_filename)
-    
-    # Clean up old map files (keep at most 5 recent files)
+    # Atomic write to a static file
+    map_filename = "templates/map_render.html"
+    # Use try-finally to ensure temporary file is cleaned up on error during move
+    tmp_file = None
     try:
-        map_files = [f for f in os.listdir('templates') if f.startswith('map_render_')]
-        if len(map_files) > 5:
-            map_files.sort()
-            for old_file in map_files[:-5]:
-                os.remove(os.path.join('templates', old_file))
-    except Exception as e:
-        print(f"Error cleaning up old map files: {e}")
-        
-    return render_template(os.path.basename(map_filename))
+        with tempfile.NamedTemporaryFile("w", dir="templates", delete=False, suffix=".html") as tmp_f:
+            tmp_file = tmp_f.name # Store the temp file name
+            m.save(tmp_file)
+        # If save succeeds, move the file
+        shutil.move(tmp_file, map_filename)
+        tmp_file = None # Indicate move was successful
+    finally:
+        # Clean up the temp file only if the move failed and tmp_file exists
+        if tmp_file and os.path.exists(tmp_file):
+            try:
+                os.remove(tmp_file)
+            except OSError as e:
+                print(f"Error removing temporary file {tmp_file}: {e}")
+
+    return render_template("map_render.html")
 
 @app.route('/map_today')
 def map_today_view():
@@ -200,7 +222,7 @@ def map_today_view():
                 html: '<div style="' + style + '">' + displayValue + '</div>',
                 className: 'my-custom-cluster-icon-with-bg',
                 iconSize: [48, 48]
-            });
+             });
         }
         '''
         marker_cluster = MarkerCluster(icon_create_function=icon_create_function).add_to(m)
@@ -210,20 +232,27 @@ def map_today_view():
                 location=[lat, lon],
                 popup=f"Lat: {lat:.4f}, Lon: {lon:.4f}"
             ).add_to(marker_cluster)
-            
-    m.save(map_filename)
-    
-    # Clean up old map files (keep at most 5 recent files)
+
+    # Map remains static - no click/reset logic needed
+
+    # Atomic write for today map
+    map_filename_today = "templates/map_today_render.html"
+    tmp_file_today = None
     try:
-        map_files = [f for f in os.listdir('templates') if f.startswith('map_today_render_')]
-        if len(map_files) > 5:
-            map_files.sort()
-            for old_file in map_files[:-5]:
-                os.remove(os.path.join('templates', old_file))
-    except Exception as e:
-        print(f"Error cleaning up old map files: {e}")
-        
-    return render_template(os.path.basename(map_filename))
+        with tempfile.NamedTemporaryFile("w", dir="templates", delete=False, suffix=".html") as tmp_f:
+            tmp_file_today = tmp_f.name
+            m.save(tmp_file_today)
+        shutil.move(tmp_file_today, map_filename_today)
+        tmp_file_today = None # Indicate move was successful
+    finally:
+        # Clean up the temp file only if the move failed
+        if tmp_file_today and os.path.exists(tmp_file_today):
+            try:
+                os.remove(tmp_file_today)
+            except OSError as e:
+                print(f"Error removing temporary file {tmp_file_today}: {e}")
+
+    return render_template("map_today_render.html")
 
 # Initialize API routes
 init_api_routes(app)
