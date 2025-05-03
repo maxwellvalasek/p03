@@ -126,58 +126,74 @@ def get_data_as_table():
         return []
 
 def get_total_earnings():
-    table = get_data_as_table()
-    return sum(row['Earnings'] for row in table)
+    # Calculate based on combined interactions * value
+    total_interactions = get_total_interactions()
+    return total_interactions * 0.20
 
 def get_earnings_today():
-    if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, 'r') as f:
-            try:
-                data = json.load(f)
-                if not isinstance(data, list):
-                    data = [data]
-                df = pd.DataFrame(data)
-                if not df.empty:
-                    today = datetime.now().date()
-                    df['timestamp'] = pd.to_datetime(df['timestamp'])
-                    today_earnings = df[df['timestamp'].dt.date == today]['earnings'].sum()
-                    return today_earnings
-                else:
-                    return 0.0
-            except json.JSONDecodeError:
-                return 0.0
-    else:
-        return 0.0
+    # Calculate based on combined interactions today * value
+    interactions_today = get_interactions_today()
+    return interactions_today * 0.20
 
 def get_interactions_today():
+    data_today_count = 0
+    coords_today_count = 0
+    today_date = datetime.now().date()
+
+    # Count today's entries in data.json
     if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, 'r') as f:
-            try:
+        try:
+            with open(DATA_FILE, 'r') as f:
                 data = json.load(f)
-                if not isinstance(data, list):
-                    data = [data]
-                df = pd.DataFrame(data)
-                if not df.empty:
-                    today = datetime.now().date()
-                    df['timestamp'] = pd.to_datetime(df['timestamp'])
-                    today_count = df[df['timestamp'].dt.date == today].shape[0]
-                    return today_count
-                else:
-                    return 0
-            except json.JSONDecodeError:
-                return 0
-    else:
-        return 0
+                if isinstance(data, list):
+                    for entry in data:
+                        try:
+                            entry_ts = datetime.fromisoformat(entry.get('timestamp', '')).date()
+                            if entry_ts == today_date:
+                                data_today_count += 1
+                        except (ValueError, TypeError):
+                            continue # Ignore invalid timestamps
+        except (json.JSONDecodeError, IOError):
+            print(f"Error reading/parsing {DATA_FILE} for today's count")
+            # Continue to check coords.csv
+            
+    # Count today's entries in coords.csv
+    coords_file = 'coords.csv'
+    if os.path.exists(coords_file):
+        try:
+            df_coords = pd.read_csv(coords_file)
+            if 'date' in df_coords.columns:
+                # Convert 'date' column safely, handling potential errors
+                df_coords['date'] = pd.to_datetime(df_coords['date'], errors='coerce')
+                # Filter for today's date after conversion, dropping NaT values
+                coords_today_count = df_coords.dropna(subset=['date'])[df_coords['date'].dt.date == today_date].shape[0]
+        except Exception as e:
+            print(f"Error processing {coords_file} for today's count: {e}")
+
+    return data_today_count + coords_today_count
 
 def get_total_interactions():
+    data_count = 0
+    coords_count = 0
+
+    # Count total entries in data.json
     if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, 'r') as f:
-            try:
+        try:
+            with open(DATA_FILE, 'r') as f:
                 data = json.load(f)
-                if not isinstance(data, list):
-                    data = [data]
-                return len(data)
-            except json.JSONDecodeError:
-                return 0
-    else:
-        return 0
+                if isinstance(data, list):
+                    data_count = len(data)
+        except (json.JSONDecodeError, IOError):
+             print(f"Error reading/parsing {DATA_FILE} for total count")
+             # Continue
+
+    # Count total entries in coords.csv
+    coords_file = 'coords.csv'
+    if os.path.exists(coords_file):
+        try:
+            df_coords = pd.read_csv(coords_file)
+            coords_count = len(df_coords)
+        except Exception as e:
+             print(f"Error processing {coords_file} for total count: {e}")
+             
+    return data_count + coords_count
