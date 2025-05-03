@@ -13,6 +13,8 @@ def init_api_routes(app):
     @app.route('/api/events')
     def events():
         def generate():
+            last_data_count = 0
+            
             while True:
                 try:
                     # Get current data
@@ -22,12 +24,18 @@ def init_api_routes(app):
                     interactions_today = get_interactions_today()
                     total_interactions = get_total_interactions()
                     
+                    # Check if data count has changed (new data added)
+                    data_updated = total_interactions != last_data_count
+                    last_data_count = total_interactions
+                    
                     data = {
                         'table': table,
                         'total_earnings': total,
                         'earnings_today': today,
                         'interactions_today': interactions_today,
-                        'total_interactions': total_interactions
+                        'total_interactions': total_interactions,
+                        'data_updated': data_updated,
+                        'timestamp': datetime.now().isoformat()
                     }
                     
                     yield f"data: {json.dumps(data)}\n\n"
@@ -48,7 +56,7 @@ def init_api_routes(app):
         timestamp = datetime.now().isoformat()
         earnings = 0.20  # New field for earnings
         new_entry = {
-            'coordinates': '(37.875994, -122.3412217)',  # Hardcoded coordinates
+            'coordinates': '(37.8760, -122.2588)',  # Updated Berkeley coordinates
             'interaction_type': interaction_type,
             'ad_id': ad_id,
             'timestamp': timestamp,
@@ -93,7 +101,7 @@ def init_api_routes(app):
 
 def make_post_request(url, interaction_type, ad_id):
     payload = {
-        'coordinates': '(37.875994, -122.3412217)',  # Hardcoded coordinates
+        'coordinates': '(37.8760, -122.2588)',  # Updated Berkeley coordinates
         'interaction_type': interaction_type,
         'ad_id': ad_id
     }
@@ -136,9 +144,8 @@ def get_earnings_today():
     return interactions_today * 0.20
 
 def get_interactions_today():
-    data_today_count = 0
-    coords_today_count = 0
     today_date = datetime.now().date()
+    data_today_count = 0
 
     # Count today's entries in data.json
     if os.path.exists(DATA_FILE):
@@ -155,26 +162,11 @@ def get_interactions_today():
                             continue # Ignore invalid timestamps
         except (json.JSONDecodeError, IOError):
             print(f"Error reading/parsing {DATA_FILE} for today's count")
-            # Continue to check coords.csv
             
-    # Count today's entries in coords.csv
-    coords_file = 'coords.csv'
-    if os.path.exists(coords_file):
-        try:
-            df_coords = pd.read_csv(coords_file)
-            if 'date' in df_coords.columns:
-                # Convert 'date' column safely, handling potential errors
-                df_coords['date'] = pd.to_datetime(df_coords['date'], errors='coerce')
-                # Filter for today's date after conversion, dropping NaT values
-                coords_today_count = df_coords.dropna(subset=['date'])[df_coords['date'].dt.date == today_date].shape[0]
-        except Exception as e:
-            print(f"Error processing {coords_file} for today's count: {e}")
-
-    return data_today_count + coords_today_count
+    return data_today_count
 
 def get_total_interactions():
     data_count = 0
-    coords_count = 0
 
     # Count total entries in data.json
     if os.path.exists(DATA_FILE):
@@ -185,15 +177,5 @@ def get_total_interactions():
                     data_count = len(data)
         except (json.JSONDecodeError, IOError):
              print(f"Error reading/parsing {DATA_FILE} for total count")
-             # Continue
-
-    # Count total entries in coords.csv
-    coords_file = 'coords.csv'
-    if os.path.exists(coords_file):
-        try:
-            df_coords = pd.read_csv(coords_file)
-            coords_count = len(df_coords)
-        except Exception as e:
-             print(f"Error processing {coords_file} for total count: {e}")
              
-    return data_count + coords_count
+    return data_count

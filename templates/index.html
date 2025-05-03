@@ -183,6 +183,30 @@
                     tableBody.appendChild(tr);
                 });
             }
+
+            // Refresh maps if data was updated (new entries added)
+            if (data.data_updated) {
+                console.log("New data detected, refreshing maps at", data.timestamp);
+                
+                // Store current scroll position
+                const scrollPos = window.scrollY;
+                
+                // Refresh both maps with cache-busting timestamp
+                const timestamp = new Date().getTime();
+                const allTimeMapIframe = document.querySelector('iframe[src^="/map"]');
+                const todayMapIframe = document.querySelector('iframe[src^="/map_today"]');
+                
+                if (allTimeMapIframe) {
+                    allTimeMapIframe.src = `/map?t=${timestamp}`;
+                }
+                
+                if (todayMapIframe) {
+                    todayMapIframe.src = `/map_today?t=${timestamp}`;
+                }
+                
+                // Restore scroll position after refresh
+                window.scrollTo(0, scrollPos);
+            }
         }
         const eventSource = new EventSource('/api/events');
         eventSource.onmessage = e => updateDashboard(JSON.parse(e.data));
@@ -192,18 +216,25 @@
         };
     </script>
 
-    <!-- Restore Today Map Bounding Box Display Logic -->
+    <!-- Restore Today Map Bounding Box and Cursor Coordinate Display Logic -->
     <script>
         const todayIframe = document.querySelector('iframe[src="/map_today"]');
         const todayBoundsDisplay = document.getElementById('map-today-bounds-display');
+        let currentBoundsText = 'Map Bounds: Loading...'; // Store bounds text separately
+        let currentCursorText = ''; // Store cursor text separately
+
+        function updateDisplay() {
+            todayBoundsDisplay.textContent = currentBoundsText + (currentCursorText ? ` | ${currentCursorText}` : '');
+        }
 
         todayIframe.onload = () => {
             console.log("/map_today iframe loaded.");
             try {
                 const iframeWindow = todayIframe.contentWindow;
-                const mapVar = Object.keys(iframeWindow).find(k => k.startsWith('map_'));
+                // Find the Leaflet map variable (usually starts with 'map_')
+                const mapVar = Object.keys(iframeWindow).find(k => k.startsWith('map_') && iframeWindow[k] && typeof iframeWindow[k].getBounds === 'function');
                 console.log("Found map variable name:", mapVar);
-                
+
                 const leafletMap = iframeWindow[mapVar];
                 console.log("Leaflet map object found:", leafletMap ? 'Yes' : 'No');
 
@@ -213,29 +244,48 @@
                             const bounds = leafletMap.getBounds();
                             const sw = bounds.getSouthWest();
                             const ne = bounds.getNorthEast();
-                            todayBoundsDisplay.textContent = 
+                            currentBoundsText =
                                 `Map Bounds: SW(${sw.lat.toFixed(4)}, ${sw.lng.toFixed(4)}) ` +
                                 `NE(${ne.lat.toFixed(4)}, ${ne.lng.toFixed(4)})`;
                         } catch (mapError) {
-                            todayBoundsDisplay.textContent = 'Map Bounds: Error getting bounds.';
+                            currentBoundsText = 'Map Bounds: Error getting bounds.';
                             console.error('Error getting map bounds:', mapError);
                         }
+                        updateDisplay(); // Update the combined display
                     };
 
-                    // Initial display
+                    // Initial bounds display
                     updateTodayBoundsDisplay();
 
-                    // Update on map move/zoom
+                    // Update bounds on map move/zoom
                     leafletMap.on('moveend', updateTodayBoundsDisplay);
+
+                    // Add mousemove listener for cursor coordinates
+                    leafletMap.on('mousemove', (e) => {
+                        currentCursorText = `Cursor: (${e.latlng.lat.toFixed(4)}, ${e.latlng.lng.toFixed(4)})`;
+                        updateDisplay();
+                    });
+
+                    // Clear cursor coordinates when mouse leaves the map
+                    leafletMap.on('mouseout', () => {
+                        currentCursorText = '';
+                        updateDisplay();
+                    });
+
                 } else {
-                    todayBoundsDisplay.textContent = 'Map Bounds: Error finding map object.';
+                    currentBoundsText = 'Map Bounds: Error finding map object.';
+                    updateDisplay();
                     console.error('Could not find Leaflet map object in /map_today iframe.');
                 }
             } catch (error) {
-                 todayBoundsDisplay.textContent = 'Map Bounds: Error accessing iframe content.';
+                 currentBoundsText = 'Map Bounds: Error accessing iframe content.';
+                 updateDisplay();
                  console.error('Error accessing /map_today iframe content or map object:', error);
             }
         };
+
+        // Initial display update
+        updateDisplay();
     </script>
 
     <!-- Bootstrap JS -->

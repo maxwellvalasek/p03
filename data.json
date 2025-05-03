@@ -1,527 +1,681 @@
 [
   {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "ozempic_cookie",
-    "timestamp": "2025-04-28T11:38:59.548933",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "ozempic_cookie",
-    "timestamp": "2025-04-28T11:39:00.090758",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "ozempic_cookie",
-    "timestamp": "2025-04-28T11:39:00.514202",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-28T11:39:03.903748",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-28T11:39:04.541136",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "open_ai",
-    "timestamp": "2025-04-28T11:39:06.893262",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "open_ai",
-    "timestamp": "2025-04-28T11:39:07.099728",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "open_ai",
-    "timestamp": "2025-04-28T11:39:07.319684",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 3",
-    "ad_id": "open_ai",
-    "timestamp": "2025-04-28T11:39:07.518938",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "37.875994,-122.3412217",
-    "interaction_type": "INTERACTION 2",
-    "ad_id": "ozempic_cookie",
-    "timestamp": "2025-04-28T11:48:47.699636",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T10:42:56.362403",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T10:43:58.578729",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T10:46:30.310186",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:18:52.780334",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
+    "coordinates": "(37.800296, -122.398252)",
     "interaction_type": "",
     "ad_id": "",
-    "timestamp": "2025-04-30T11:21:19.373738",
+    "timestamp": "",
     "earnings": 0.2
   },
   {
-    "coordinates": "(37.875994, -122.3412217)",
+    "coordinates": "(37.801579, -122.400742)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.799950, -122.399368)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.802665, -122.397652)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.787952, -122.408295)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.795337, -122.401085)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.797238, -122.402802)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.795609, -122.405548)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.801309, -122.405205)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.794794, -122.397652)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.797509, -122.398338)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.803481, -122.401772)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.806466, -122.406921)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.807280, -122.410355)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.807008, -122.405548)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.804565, -122.419281)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.805108, -122.424088)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.803479, -122.426491)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.802665, -122.452583)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.802936, -122.461853)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.802393, -122.460480)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.802393, -122.455673)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.802664, -122.458076)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.801036, -122.459450)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.801850, -122.461853)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.803207, -122.465630)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.803750, -122.468033)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.763568, -122.510948)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.764927, -122.513008)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.766014, -122.513695)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.767915, -122.511978)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.769545, -122.511635)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.764929, -122.509575)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.767102, -122.510262)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.768461, -122.511292)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.770633, -122.511292)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.760857, -122.510948)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.762216, -122.511292)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.765608, -122.511377)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.766290, -122.511292)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.763847, -122.502022)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.763575, -122.499619)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.764933, -122.495499)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.763576, -122.494812)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.755606, -122.447090)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.755429, -122.448120)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.754886, -122.448120)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.754615, -122.448120)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.753801, -122.445374)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.755431, -122.445717)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.754616, -122.446060)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.753802, -122.448463)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.755160, -122.449837)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.756247, -122.448463)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.805119, -122.469406)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.806204, -122.471809)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.806204, -122.474556)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.800775, -122.400742)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.804032, -122.401428)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.805118, -122.402115)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.805660, -122.403145)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.806474, -122.413788)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.805931, -122.415848)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.805660, -122.420654)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.757331, -122.442970)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.758689, -122.444344)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.760591, -122.440567)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.869533, -122.259148)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.869466, -122.259067)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.867565, -122.258949)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.867041, -122.258756)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.869694, -122.268090)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.869129, -122.267876)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.866823, -122.267532)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.865603, -122.267361)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.866553, -122.267876)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.867460, -122.267704)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.868225, -122.267854)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.866463, -122.258649)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.864383, -122.258263)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.865161, -122.258370)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.867699, -122.267725)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875377, -122.258981)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875220, -122.259255)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875046, -122.260580)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875046, -122.261224)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875081, -122.260116)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.874876, -122.261910)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875249, -122.262211)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875961, -122.262211)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.876401, -122.262297)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875248, -122.258306)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.875689, -122.258306)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.876062, -122.258306)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.876005, -122.258783)",
+    "interaction_type": "",
+    "ad_id": "",
+    "timestamp": "2025-05-03T11:38:59.548933",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
     "interaction_type": "INTERACTION 1",
     "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:26.908875",
+    "timestamp": "2025-05-03T09:37:11.394597",
     "earnings": 0.2
   },
   {
-    "coordinates": "(37.875994, -122.3412217)",
+    "coordinates": "(37.8760, -122.2588)",
     "interaction_type": "INTERACTION 1",
     "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:30.654058",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:32.280442",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:33.752731",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:34.913643",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:37.405955",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:46.375322",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:48.397267",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:49.561461",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:50.861063",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:52.212356",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:54.639744",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:56.212391",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:57.325990",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:25:59.989175",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:26:20.919147",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:26:28.383122",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:26:30.052975",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:26:32.779970",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:26:34.609684",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:26:36.602883",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:26:37.650357",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:27:29.002538",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:27:31.492049",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:27:32.708439",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:28:16.190579",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:28:17.023400",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:28:19.768918",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:28:20.465376",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:01.532781",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:02.174341",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:02.953069",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:04.046399",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:11.708966",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:15.806429",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:17.098519",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:18.071054",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:31:19.223556",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:36:56.497987",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:00.096010",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:00.587994",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:06.536398",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:10.447175",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:12.896073",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:19.350607",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:33.579661",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:36.503686",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:38.392729",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:38.894011",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:37:39.849136",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "snapchat_filter",
-    "timestamp": "2025-04-30T11:42:27.160440",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:45:44.342744",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "openai_bci",
-    "timestamp": "2025-04-30T11:45:49.760408",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "ozempic",
-    "timestamp": "2025-04-30T11:45:51.232041",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:45:56.136279",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "openai_bci",
-    "timestamp": "2025-04-30T11:45:58.485028",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "openai_bci",
-    "timestamp": "2025-04-30T11:46:01.767020",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "ozempic",
-    "timestamp": "2025-04-30T11:46:02.855721",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:46:50.327477",
-    "earnings": 0.2
-  },
-  {
-    "coordinates": "(37.875994, -122.3412217)",
-    "interaction_type": "INTERACTION 1",
-    "ad_id": "google_lens",
-    "timestamp": "2025-04-30T11:47:15.177744",
+    "timestamp": "2025-05-03T09:39:34.028100",
     "earnings": 0.2
   }
 ]
