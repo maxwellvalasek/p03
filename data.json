@@ -712,5 +712,6417 @@
     "ad_id": "google_lens",
     "timestamp": "2025-05-03T10:40:39.808485",
     "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-04T14:22:03.171559",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-04T14:31:16.606866",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T17:40:02.600596",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T17:40:16.258809",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T17:54:00.870607",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T17:54:05.543006",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T17:54:07.679256",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T17:54:09.435349",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:02:32.711513",
+    "earnings": 0.4
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:03:08.910871",
+    "earnings": 0.4
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:04:34.719167",
+    "earnings": 0.4
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:16:41.499291",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:16:42.092753",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:16:56.884705",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:16:58.875932",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:16:59.367172",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:17:02.556930",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:17:04.142536",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:17:05.530700",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:17:06.689447",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:17:08.250029",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:17:19.966113",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:17:22.814595",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:17:24.615320",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:17:26.060641",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:18:16.186503",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:29:51.662178",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:30:03.857393",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:30:15.674207",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:30:20.853148",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:30:21.981319",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:30:23.340059",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:30:24.838631",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:30:26.367784",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:30:27.597759",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:30:29.069601",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:30:30.011705",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:30:31.399903",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:30:32.936050",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:30:34.091700",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION 1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:30:35.283043",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:34:51.624146",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:35:17.131695",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:35:21.677844",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:35:22.026661",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:35:27.937412",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:35:39.699335",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:35:42.913306",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:35:43.177692",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:36:17.897516",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:36:19.822509",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:36:34.793958",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:37:07.644830",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:37:27.293399",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:38:12.731922",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:39:38.154971",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:45:43.012550",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T18:53:30.289958",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:53:30.539320",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:53:44.359142",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:53:59.417342",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:54:08.835153",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:54:42.489610",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:55:26.432888",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:55:55.211146",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:56:06.922818",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:56:34.477802",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:56:41.947005",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:56:43.073712",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:56:45.048086",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:57:11.066098",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:57:23.596020",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T18:57:24.221158",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:57:30.286171",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:58:20.231954",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:58:49.140527",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T18:59:07.224494",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T18:59:37.920793",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:00:18.003676",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:00:19.294511",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:00:22.193060",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:00:40.591983",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:01:22.125638",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:02:01.159065",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:02:17.787294",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:02:19.619269",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:02:20.783910",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:02:33.691161",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:04:13.859737",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:04:15.073552",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:04:15.965650",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:04:22.750116",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:04:29.787206",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:04:30.875492",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:04:31.672099",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:04:32.587830",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:04:57.896878",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:04:58.906847",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:05:00.227766",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:05:08.483101",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:05:09.320197",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:05:10.272579",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:05:15.345458",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:05:56.511128",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:06:24.150973",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:06:33.039673",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:06:34.008993",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:06:40.549187",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:07:35.187070",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:07:42.975098",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:07:44.391500",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:07:52.137710",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:07:54.677453",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:07:57.233415",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:09:08.208875",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:09:12.606063",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:09:30.567346",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:10:16.652192",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:10:32.813782",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:10:40.484478",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:11:29.455793",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:11:42.214489",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:11:50.278659",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:11:51.136950",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:11:52.419169",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:11:54.701204",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:11:58.697766",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:12:00.687446",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:01.522587",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:12:02.417142",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:07.844027",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:12:13.471363",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:15.682949",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:12:27.870070",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:12:29.204136",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:12:30.377104",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:33.617408",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:36.587967",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:12:37.591826",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:12:38.828713",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:40.903287",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:12:42.367742",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:43.573088",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:44.815739",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:12:46.284699",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:12:47.894271",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:12:57.458105",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:12:59.323048",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:13:01.369687",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:13:04.336889",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:13:07.135503",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:13:13.447452",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:13:20.043724",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:13:23.794133",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:13:26.662980",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:13:27.486385",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:13:32.965721",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:13:43.829790",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:13:48.232865",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:13:51.302897",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:14:18.784180",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:15:08.653239",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:23:15.120462",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:23:18.226752",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:23:24.027792",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:23:26.007752",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:23:27.261665",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:23:28.836269",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:23:31.631486",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:34:08.675992",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:34:09.427688",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:34:10.612377",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:34:14.499606",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:34:16.670072",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:34:18.859540",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:34:21.060967",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:34:22.439566",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:34:24.864498",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:34:28.682677",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:34:30.951719",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:34:33.201654",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:34:35.941600",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:34:38.722974",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:34:41.599914",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:34:43.802889",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:34:47.874881",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:34:50.367376",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:34:52.859328",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:34:55.173671",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:34:57.658839",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:34:59.989706",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:35:02.415061",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:35:06.326974",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:35:08.686830",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:35:10.631784",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:35:12.668996",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:35:19.881726",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:35:21.089198",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:35:24.189488",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:35:26.612078",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:37:44.908009",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:37:46.068768",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:37:48.369543",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:37:50.508131",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:37:52.447964",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:37:54.676708",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:38:04.467074",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:38:08.634647",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:38:12.721202",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:38:15.608098",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:38:17.836957",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:40:17.988423",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:40:20.294262",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:40:22.318411",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:40:24.504649",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:40:26.629278",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:40:28.685951",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:40:30.662188",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:40:33.683668",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:40:34.207570",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:40:36.373932",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:40:39.953305",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:41:09.548830",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:41:12.584953",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:41:17.262404",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:41:20.397437",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:41:23.609869",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:41:31.156865",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:41:35.350850",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:41:36.621960",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:41:45.244927",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:41:49.176935",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:41:50.583138",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:41:53.786840",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:41:55.325948",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:42:01.680041",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:42:06.800208",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:42:07.435032",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:42:11.397815",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:42:12.824918",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:42:13.608683",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:42:15.952762",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:42:17.498439",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:42:27.401537",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:42:42.359460",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:42:45.813217",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:42:49.185539",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:42:53.548980",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:42:56.870856",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:42:59.970232",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:43:03.064486",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T19:43:06.583775",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T19:43:09.823093",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:43:13.099469",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:46:27.997348",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T19:46:28.883577",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:00:42.679743",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:00:49.458606",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:07:39.773023",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:08:38.504119",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:08:42.979159",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:08:45.671842",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:08:47.888955",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:08:55.469835",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:08:57.044964",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:08:59.142521",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:09:02.331530",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:09:03.906799",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:09:04.964055",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:09:14.902675",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:09:52.579121",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:10:03.718885",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:10:05.036680",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:10:06.057585",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:10:08.746595",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:10:11.451668",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:10:50.507929",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:10:54.053740",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:10:55.024209",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:10:57.872667",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:11:00.287335",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:11:02.128406",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:11:04.474245",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:11:06.067490",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:11:09.294958",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:11:10.829349",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:11:12.625720",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:11:16.061226",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:11:19.292756",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:11:22.756695",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:11:26.957734",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:11:31.983750",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:11:36.789715",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:11:41.287697",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:11:43.411383",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:13:07.971051",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:13:08.718015",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:13:11.093161",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:13:12.397114",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:13:13.535411",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T20:16:02.628613",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:21:36.599493",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:21:37.616653",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:21:38.895811",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:22:04.725044",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:22:09.706236",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:22:28.664705",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:22:30.539730",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:22:31.107229",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:22:39.469691",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:23:01.231651",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:23:45.752032",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:23:47.539863",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:23:50.807727",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:23:52.270916",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:23:54.466601",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:24:00.605982",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:24:01.284643",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:24:02.073062",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:24:03.626114",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:24:05.614405",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:24:08.548398",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:24:15.859435",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:24:24.081044",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:24:39.759530",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:24:47.748190",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:24:50.610648",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:24:56.054818",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:24:59.159496",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:25:00.010904",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:25:04.670289",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:25:05.306355",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:25:18.449033",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:25:20.062065",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:25:20.799367",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:25:21.744050",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:25:22.961618",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:25:34.989626",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:25:38.505621",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:25:39.988951",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:26:28.009631",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:26:28.764423",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:26:29.245549",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:26:35.830121",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:26:37.287150",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:26:41.174941",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:26:42.346119",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:26:43.423344",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:26:45.239946",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:26:47.833234",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:26:48.494682",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:26:50.153651",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:27:43.483548",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:28:05.852266",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:28:07.767197",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:28:09.607755",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:28:10.336199",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:33:27.904925",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:33:29.887441",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:33:37.753969",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:33:41.255642",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:33:43.069426",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:33:44.624852",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:33:45.659165",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:33:51.427641",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:33:54.567174",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:34:45.518833",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:34:46.328234",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:34:56.352828",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:35:04.648250",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:35:11.689948",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:35:15.933903",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:35:21.429123",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:35:22.113080",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:35:25.276696",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:36:05.995253",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:36:11.153207",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:36:13.711875",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:36:14.742113",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:36:25.648593",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:36:29.551314",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:36:30.507027",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:36:31.485298",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:36:33.744822",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:36:37.212067",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:36:38.262192",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:36:56.467948",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:36:59.342745",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:37:00.281466",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:37:27.465433",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:37:31.593465",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:37:31.962007",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:37:32.862635",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:37:34.021566",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:37:34.745000",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:37:35.952346",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:37:43.314940",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:38:04.801457",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:07.602212",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:38:09.318260",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:10.295613",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:38:11.332828",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:38:12.518999",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:15.834203",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:38:17.462790",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:20.428408",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:38:22.301014",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:23.518086",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:38:25.291756",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:27.778179",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:38:28.672637",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:38:30.359503",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:38:31.727238",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:38:32.814745",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:34.951006",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:38:36.084776",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:38.592655",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:38:40.012921",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:40.892305",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:38:41.730976",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:38:42.817053",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:39:53.401353",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:39:55.617765",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:39:57.858659",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:39:59.830057",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:40:05.100979",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:40:07.108918",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:40:08.652643",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:40:12.410774",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:40:16.119171",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:40:40.718799",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:40:42.302144",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:40:43.909387",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:40:45.963320",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:40:49.249555",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:40:50.763783",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:40:53.831378",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:40:55.411952",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:40:57.175285",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:41:00.763628",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:41:02.481294",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:41:03.974452",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:41:10.282334",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:41:11.726543",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:41:13.058216",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:41:14.626738",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:41:17.338084",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:41:20.320233",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:41:21.843677",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:41:22.703759",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:41:27.412394",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:41:29.133088",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:41:43.508621",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:41:44.478337",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:41:45.800062",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:41:47.078837",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:41:49.069760",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:42:27.956206",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:44:07.798529",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:44:09.151005",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:44:09.629245",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:44:11.786451",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:44:12.597445",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:44:14.649815",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:44:18.315795",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:44:19.455317",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:44:21.602869",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:44:22.496361",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:44:25.766392",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:44:27.714597",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:44:39.796576",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-05T20:44:41.233219",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:45:03.925625",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-05T20:45:23.040501",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-05T20:46:22.140837",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-05T20:47:35.215126",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-06T11:47:16.546856",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-06T11:47:28.373413",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:24:33.277046",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:24:34.218292",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:24:35.018070",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:24:38.844855",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:24:39.732518",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:24:43.008948",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:24:44.279315",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:24:46.222034",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:25:05.333151",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:25:05.916852",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:25:14.582730",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:25:15.835046",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:25:16.790567",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:25:23.356337",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:25:28.246478",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:25:55.108755",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:25:56.261541",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:25:57.195921",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:26:08.860803",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:26:09.991634",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:26:25.375643",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:26:39.099436",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-06T12:27:10.447377",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-06T12:27:25.770489",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:33:31.517901",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:33:32.848882",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:33:33.331208",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:33:34.613083",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:33:37.735454",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:33:38.310518",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:33:39.081534",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:33:39.911007",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:38:16.529052",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:40:04.441190",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:41:30.626705",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:41:33.292699",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:41:36.606800",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:41:44.021614",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:55:02.934476",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:55:03.581709",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:55:04.125160",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:55:30.566901",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:55:32.406450",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:55:38.575694",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:55:40.670744",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:55:41.207026",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:55:46.442711",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:55:47.800560",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:55:48.569519",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:55:55.356706",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:56:20.563273",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:56:22.029012",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:57:13.697182",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:57:14.691669",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:57:15.701269",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-06T12:57:35.401830",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:58:16.857050",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:58:21.141052",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:58:56.735271",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:59:25.926583",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:59:27.440426",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:59:28.338207",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:59:31.544037",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:59:43.228021",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:59:44.739906",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:59:45.579461",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T12:59:46.913169",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T12:59:51.928435",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T12:59:55.464290",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:00:43.709331",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:00:45.017489",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:02:46.110097",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:02:49.204809",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:02:54.377051",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:04:53.776971",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:04:56.992018",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:05:00.360039",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:05:52.871699",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-06T13:06:57.996334",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:07:38.319796",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:07:42.896951",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:07:46.445803",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:08:04.948171",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:08:06.351035",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:08:07.601276",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:08:10.809549",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:08:13.650411",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:08:14.934326",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:36:27.944440",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:36:31.104532",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:36:32.432938",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:52:56.217932",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:52:57.992653",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:53:05.094574",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:53:06.457179",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:53:07.974121",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:53:31.583266",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:53:33.022848",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:53:34.375800",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:53:40.234617",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:53:41.643826",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:53:46.836657",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:53:51.096070",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:54:07.991353",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:54:11.507886",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:54:20.414868",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:54:21.549197",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T13:54:22.763963",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T13:54:27.086409",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-06T13:54:28.287843",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-06T14:07:28.312091",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-06T14:07:34.464267",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T13:26:07.603439",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T13:26:07.900966",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T13:26:24.096217",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T13:26:24.848867",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T13:26:26.588326",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T13:26:27.370397",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "qr",
+    "ad_id": "qr_default",
+    "timestamp": "2025-05-08T13:32:24.923753",
+    "earnings": 1.0
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T13:52:37.048001",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T13:52:43.517760",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T13:52:48.050589",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T13:52:50.095593",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T13:52:55.132305",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T13:53:08.326070",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T13:53:09.886841",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T13:53:19.298078",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T13:53:20.340786",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T13:53:21.158667",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:13:25.234532",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:13:25.326882",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:13:25.418963",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:13:27.403023",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:13:28.082701",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:13:29.479548",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:13:40.479483",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:13:41.555716",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:13:42.815657",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:14:20.992269",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:14:30.409950",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:18:55.322355",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:21:29.230159",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:21:30.561703",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:21:31.686867",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:22:30.621325",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:22:50.027416",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:22:54.018870",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:23:09.890662",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:23:42.762957",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:23:44.297005",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:23:59.452312",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:24:03.650720",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:24:03.822590",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:24:06.942534",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:24:14.302212",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:24:19.730245",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:24:20.183551",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:24:21.264211",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:24:28.124128",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:24:31.610200",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:24:32.633914",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:25:35.635785",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:25:37.168376",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:25:43.095009",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:25:53.116455",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:25:55.274342",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:25:57.692045",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:25:59.258462",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:26:06.542836",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:26:09.296240",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:26:15.343654",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:26:21.072643",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:27:16.571728",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:27:19.769976",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:27:23.333694",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:27:27.389321",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:27:31.215465",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:28:54.469407",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:29:00.305450",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:29:55.180655",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:29:59.010207",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:30:10.610502",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:30:26.493420",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:30:29.668711",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:30:30.782889",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:30:31.850278",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:30:32.989650",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:30:33.975961",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:30:55.096677",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:31:01.957379",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:31:03.684139",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:32:04.221658",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:33:39.529182",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:33:41.806565",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:34:00.244818",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:34:10.374850",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:34:11.823445",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:34:12.835165",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:34:19.796107",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:34:39.810297",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:34:53.593250",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:34:54.145155",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:34:56.294270",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:34:56.885490",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:35:00.133538",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:35:01.682860",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:35:02.624749",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:35:04.290458",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:35:05.398660",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:35:08.114666",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:35:09.255578",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:35:16.526419",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:35:18.234083",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:35:20.188054",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:35:22.674432",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:35:24.839274",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:35:26.373997",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:35:28.660410",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:35:29.681313",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:35:31.894446",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:35:33.140307",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:35:39.611349",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:36:11.781005",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:36:14.097825",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:36:16.427993",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:36:18.380268",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:36:20.736777",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:36:22.892194",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:36:24.798829",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:37:01.590079",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:37:08.247339",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:37:10.328024",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:37:23.298553",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:37:25.214825",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:37:27.243652",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:37:30.589984",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:37:33.349098",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:37:38.663997",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:37:41.628894",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:37:44.189966",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:37:47.588823",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:37:49.226227",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:38:01.802663",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:38:32.829162",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:38:34.166840",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:38:36.195297",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:38:37.250292",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:38:39.580608",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:38:41.689580",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:39:22.193790",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:40:24.238488",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:40:29.157875",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:40:34.285282",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:41:27.668186",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:43:44.337721",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:43:49.246880",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:43:51.088095",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:44:22.431341",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:44:24.375360",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:44:25.145147",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:44:28.262653",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:44:30.700741",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:47:56.016921",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:47:57.941212",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:49:36.200252",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:49:37.306727",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:49:39.216405",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:49:41.761166",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:49:43.075025",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:49:44.716266",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:49:46.291304",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:49:50.733576",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:49:54.126980",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:50:25.877779",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:50:57.420890",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:51:26.819128",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:51:35.136949",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:51:39.105067",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:51:47.010490",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:51:58.073987",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:51:59.090646",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:52:09.535863",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:52:13.542256",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:52:19.125463",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:52:27.971760",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:52:31.962352",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:52:33.773261",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:52:37.198087",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:57:30.243148",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:57:32.280764",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T14:57:35.669298",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:58:26.599915",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T14:58:28.654255",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T14:58:31.394912",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:14:48.039002",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:14:52.025240",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:14:54.077238",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:14:56.310897",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:14:57.834867",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:15:06.156604",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:15:07.126983",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:15:11.694851",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:15:13.361767",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:15:14.813648",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:15:16.522438",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:15:19.039325",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:15:19.537948",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:15:27.461530",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:15:28.057901",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:15:32.682505",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:15:33.802755",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:15:47.160977",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:17:15.043670",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:17:18.338858",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:17:19.536484",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:17:22.867801",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:17:26.040091",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:17:28.058467",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:17:44.772453",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:17:47.219330",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:18:00.431424",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:18:47.641087",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:18:55.421423",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:18:55.733570",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:18:56.802902",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:19:25.600281",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:19:27.118929",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:19:30.049612",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:19:31.050309",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:20:14.029238",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:20:14.549835",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:20:19.191825",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:20:20.210877",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:20:21.669651",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:20:23.589186",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:20:25.060864",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:20:52.157964",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:22:24.211057",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:22:26.452542",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:26:38.398365",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:26:39.575986",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:26:41.922232",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:26:43.056873",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:26:46.222059",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:26:47.342025",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:26:48.430467",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:26:49.340417",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:27:00.661581",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:01.068308",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:01.925110",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:02.804122",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:27:05.047115",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:27:05.615824",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:08.768598",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:09.784036",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:18.882734",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:19.589984",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:27:21.153478",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:27:21.702101",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:27:25.591145",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:27:26.909807",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:28.216606",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:27:31.529906",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:42.783535",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:27:45.674291",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:27:47.392565",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:49.984973",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:27:52.916714",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:27:54.990806",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:27:56.105921",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:27:56.912949",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:58.210230",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:27:59.197639",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:28:30.156411",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:28:31.182278",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:28:33.529476",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:28:35.186910",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:28:35.994341",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:28:36.596039",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:28:37.527811",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:28:38.827581",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:28:40.118468",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:28:40.875055",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:28:42.456802",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:28:47.671152",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:28:49.919664",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:28:52.610006",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:28:58.007381",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:28:59.242676",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:30:25.832626",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:30:27.265818",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:30:29.672610",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:30:38.090086",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:30:42.532101",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:30:44.571310",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:30:47.007630",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:30:52.257627",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:30:53.781181",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:30:55.570716",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:31:02.934378",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:31:05.252424",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:31:45.689135",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:31:47.429151",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:31:48.841535",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:31:53.994420",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:31:57.324012",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:32:08.672565",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:32:13.792608",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:32:16.790409",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:32:20.832661",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:32:24.137983",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:32:26.183782",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:32:28.025748",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:32:29.768328",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:32:44.309412",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:36:21.406070",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:36:23.450609",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:37:07.675085",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:37:11.671670",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:37:20.914541",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:37:22.220842",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:37:23.735460",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:37:25.131083",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:37:27.164326",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:37:32.090765",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:37:36.171757",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:37:38.990331",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:37:46.077480",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:37:48.012388",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:37:50.781170",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:37:54.067876",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:37:57.556657",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "openai_bci",
+    "timestamp": "2025-05-08T15:37:58.697762",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:38:12.335721",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_UP",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:38:14.647205",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_DOWN",
+    "ad_id": "ozempic",
+    "timestamp": "2025-05-08T15:38:22.607456",
+    "earnings": 0.05
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "SWIPE_RIGHT",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:38:27.782355",
+    "earnings": 0.2
+  },
+  {
+    "coordinates": "(37.8760, -122.2588)",
+    "interaction_type": "INTERACTION_1",
+    "ad_id": "google_lens",
+    "timestamp": "2025-05-08T15:38:32.873189",
+    "earnings": 0.2
   }
 ]

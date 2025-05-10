@@ -10,12 +10,15 @@
       margin: 0;
       background: #000;
       overflow: hidden; /* Prevent scrolling */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
     }
 
     .bg {
-      width: 100vw;
-      height: 100vh;
-      object-fit: cover;
+      width: 100vw; /* Zoom to fit the width of the screen */
+      height: auto; /* Maintain aspect ratio */
       display: block;
       border-radius: 0; /* Ensure no curved corners */
     }
@@ -23,7 +26,7 @@
 </head>
 
 <body>
-  <img class="bg" src="/static/Dashboard.png" alt="AdWALK landing" />
+  <img class="bg" src="/static/Dashboard(2).png" alt="AdWALK Analytics" />
 </body>
 
 </html>

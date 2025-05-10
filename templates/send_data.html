@@ -26,6 +26,10 @@
                         <option value="open_ai">open_ai</option>
                     </select>
                 </div>
+                <div class="col">
+                    <label for="earnings" class="form-label">Earnings</label>
+                    <input type="number" class="form-control" id="earnings" name="earnings" step="0.01" min="0" value="0.20" required>
+                </div>
             </div>
             <button type="submit" class="btn btn-primary">Send</button>
         </form>
@@ -36,6 +40,7 @@
             e.preventDefault();
             const interaction_type = document.getElementById('interaction_type').value;
             const ad_id = document.getElementById('ad_id').value;
+            const earnings = document.getElementById('earnings').value;
 
             const response = await fetch('/api/data', {
                 method: 'POST',
@@ -44,7 +49,8 @@
                 },
                 body: JSON.stringify({
                     interaction_type,
-                    ad_id
+                    ad_id,
+                    earnings
                 })
             });
 

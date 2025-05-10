@@ -38,6 +38,11 @@ def land_page():
     # Renders the land.html template
     return render_template('land.html')
 
+@app.route('/analytics')
+def analytics_page():
+    # Renders the analytics.html template
+    return render_template('analytics.html')
+
 @app.route('/send_data')
 def send_data():
     return render_template('send_data.html')
@@ -47,8 +52,13 @@ def testhome_page():
     # Renders the testhome.html template
     return render_template('testhome.html')
 
+@app.route('/qr-redeem')
+def qr_redeem():
+    return render_template('qr_redeem.html')
+
 @app.route('/map')
 def map_view():
+    font_color = request.args.get('font_color', '#1a237e')  # Default color
     combined_coords = []
     valid_coords_exist = False
 
@@ -105,24 +115,24 @@ def map_view():
     if combined_coords:
         HeatMap(combined_coords, radius=13, blur=12, min_opacity=0.3).add_to(m) # Adjusted radius from user prompt
 
-        icon_create_function = '''
-        function(cluster) {
+        icon_create_function = f'''
+        function(cluster) {{
             var markers = cluster.getAllChildMarkers();
-                var totalValue = markers.length * 0.20;
+            var totalValue = markers.length * 0.20;
             var displayValue = '$' + totalValue.toFixed(2);
             var style = `
                 background: linear-gradient(135deg, #ffffff 60%, #e3f0ff 100%);
-                    height: 28px; padding: 0 10px; border-radius: 14%; display: flex;
-                    justify-content: center; align-items: center; font-size: 1.3em;
-                    font-weight: 900; color: #1a237e; box-shadow: 0 2px 10px rgba(30,60,120,0.18);
-                    text-shadow: 0 2px 8px #fff, 0 0 2px #1976d2, 0 0 8px #fff; user-select: none; opacity: 0.75;
+                height: 28px; padding: 0 10px; border-radius: 14%; display: flex;
+                justify-content: center; align-items: center; font-size: 1.3em;
+                font-weight: 900; color: {font_color}; box-shadow: 0 2px 10px rgba(30,60,120,0.18);
+                text-shadow: 0 2px 8px #fff, 0 0 2px #1976d2, 0 0 8px #fff; user-select: none; opacity: 0.75;
             `;
-            return new L.DivIcon({
-                    html: '<div style="' + style + '">' + displayValue + '</div>',
+            return new L.DivIcon({{
+                html: '<div style=\"' + style + '\">' + displayValue + '</div>',
                 className: 'my-custom-cluster-icon-with-bg',
                 iconSize: [48, 48]
-             });
-        }
+            }});
+        }}
         '''
         marker_cluster = MarkerCluster(icon_create_function=icon_create_function).add_to(m)
 
@@ -155,7 +165,7 @@ def map_view():
 
 @app.route('/map_today')
 def map_today_view():
-    # Cache-busting timestamp is ignored (available as request.args.get('t'))
+    font_color = request.args.get('font_color', '#1a237e')  # Default to your original color
     today_combined_coords = []
     valid_today_coords_exist = False
     today_date = datetime.now().date()
@@ -181,8 +191,8 @@ def map_today_view():
 
     # --- Force UC Berkeley campus bounding box ---
     fit_bounds_coords = [
-        [37.8627, -122.2726],  # South-West corner
-        [37.8790, -122.2453]   # North-East corner
+        [37.8651, -122.2689],  # South-West corner
+        [37.8766, -122.2489]   # North-East corner
     ]
     m = Map(
         tiles="CartoDB positron",
@@ -204,26 +214,24 @@ def map_today_view():
     if today_combined_coords:
         HeatMap(today_combined_coords, radius=12, blur=12, min_opacity=0.3).add_to(m)
 
-        icon_create_function = '''
-        function(cluster) {
+        icon_create_function = f'''
+        function(cluster) {{
             var markers = cluster.getAllChildMarkers();
             var totalValue = markers.length * 0.20;
             var displayValue = '$' + totalValue.toFixed(2);
             var style = `
                 background: linear-gradient(135deg, #ffffff 60%, #e3f0ff 100%);
-                height: 28px; padding: 0 10px; border-radius: 14%;
-                display: flex; justify-content: center; align-items: center;
-                font-size: 1.3em; font-weight: 900; color: #1a237e;
-                box-shadow: 0 2px 10px rgba(30,60,120,0.18);
-                text-shadow: 0 2px 8px #fff, 0 0 2px #1976d2, 0 0 8px #fff;
-                user-select: none; opacity: 0.75;
+                height: 28px; padding: 0 10px; border-radius: 14%; display: flex;
+                justify-content: center; align-items: center; font-size: 1.3em;
+                font-weight: 900; color: {font_color}; box-shadow: 0 2px 10px rgba(30,60,120,0.18);
+                text-shadow: 0 2px 8px #fff, 0 0 2px #1976d2, 0 0 8px #fff; user-select: none; opacity: 0.75;
             `;
-            return new L.DivIcon({
-                html: '<div style="' + style + '">' + displayValue + '</div>',
+            return new L.DivIcon({{
+                html: '<div style=\"' + style + '\">' + displayValue + '</div>',
                 className: 'my-custom-cluster-icon-with-bg',
                 iconSize: [48, 48]
-             });
-        }
+            }});
+        }}
         '''
         marker_cluster = MarkerCluster(icon_create_function=icon_create_function).add_to(m)
 

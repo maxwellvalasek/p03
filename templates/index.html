@@ -74,74 +74,81 @@
 
         /* Bounding‑box display */
         #map-today-bounds-display { color: var(--tertiary); } /* Updated */
+
+        /* Logo styling */
+        .navbar-brand img {
+            height: 30px; /* Adjust height as needed */
+            width: auto;
+        }
     </style>
 </head>
 
 <body>
     <!-- Brand / Title -->
     <nav class="navbar navbar-dark mb-4 shadow-sm">
-        <div class="container"><span class="navbar-brand mb-0 h1">AdWalk</span></div>
+        <div class="container d-flex justify-content-center">
+            <a class="navbar-brand" href="#">
+                <img src="static/logo.png" alt="AdWalk Logo">
+            </a>
+        </div>
     </nav>
 
-    <div class="container glass-panel p-4 flex-grow-1">
-        <!-- KPI row -->
-        <div class="row g-4">
-            <!-- All‑time data -->
-            <div class="col-md-6">
-                <div class="card h-100">
-                    <h5 class="card-title text-center">All‑Time</h5>
-                    <div class="card-body d-flex flex-column justify-content-center">
-                        <div class="row text-center align-items-center">
-                            <div class="col-6 border-end border-secondary-subtle">
-                                <span id="interactions-total" class="stat-value display-6">0</span><br>
-                                <span class="stat-label">Interactions</span>
-                            </div>
-                            <div class="col-6">
-                                <span id="earnings-total" class="stat-value display-6">${{ '%.2f'|format(total_earnings) }}</span><br>
-                                <span class="stat-label">Earnings</span>
+    <div class="container flex-grow-1">
+        <!-- Single Row for both KPIs and Maps -->
+        <div class="row g-4 h-100">
+
+            <!-- All‑time Column -->
+            <div class="col-md-6 h-100">
+                <div class="glass-panel p-3 h-100 d-flex flex-column">
+                    <!-- All-Time KPIs -->
+                    <div class="card mb-4">
+                        <h5 class="card-title text-center">All‑Time</h5>
+                        <div class="card-body d-flex flex-column justify-content-center">
+                            <div class="row text-center align-items-center">
+                                <div class="col-6 border-end border-secondary-subtle">
+                                    <span id="interactions-total" class="stat-value display-6">0</span><br>
+                                    <span class="stat-label">Interactions</span>
+                                </div>
+                                <div class="col-6">
+                                    <span id="earnings-total" class="stat-value display-6">${{ '%.2f'|format(total_earnings) }}</span><br>
+                                    <span class="stat-label">Earnings</span>
+                                </div>
                             </div>
                         </div>
+                    </div>
+                    <!-- All-Time Map -->
+                    <div class="card flex-grow-1">
+                        <h5 class="card-title text-center">All‑Time Map</h5>
+                        <iframe src="/map" class="w-100 flex-grow-1"></iframe>
                     </div>
                 </div>
             </div>
 
-            <!-- Today's data -->
-            <div class="col-md-6">
-                <div class="card h-100">
-                    <h5 class="card-title text-center">Today</h5>
-                    <div class="card-body d-flex flex-column justify-content-center">
-                        <div class="row text-center align-items-center">
-                            <div class="col-6 border-end border-secondary-subtle">
-                                <span id="interactions-today" class="stat-value display-6">0</span><br>
-                                <span class="stat-label">Interactions</span>
-                            </div>
-                            <div class="col-6">
-                                <span id="earnings-today" class="stat-value display-6">${{ '%.2f'|format(earnings_today) }}</span><br>
-                                <span class="stat-label">Earnings</span>
+            <!-- Today Column -->
+            <div class="col-md-6 h-100">
+                <div class="glass-panel p-3 h-100 d-flex flex-column">
+                    <!-- Today's KPIs -->
+                    <div class="card mb-4">
+                        <h5 class="card-title text-center">Today</h5>
+                        <div class="card-body d-flex flex-column justify-content-center">
+                            <div class="row text-center align-items-center">
+                                <div class="col-6 border-end border-secondary-subtle">
+                                    <span id="interactions-today" class="stat-value display-6">0</span><br>
+                                    <span class="stat-label">Interactions</span>
+                                </div>
+                                <div class="col-6">
+                                    <span id="earnings-today" class="stat-value display-6">${{ '%.2f'|format(earnings_today) }}</span><br>
+                                    <span class="stat-label">Earnings</span>
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <!-- Today's Map -->
+                    <div class="card flex-grow-1">
+                        <h5 class="card-title text-center">Today's Map</h5>
+                        <iframe src="/map_today?font_color=%231a237e" class="w-100 flex-grow-1"></iframe>
+                    </div>
                 </div>
-            </div>
-        </div>
-
-        <!-- Map Row -->
-        <div class="row g-4 mt-4" style="height:60vh;">
-            <!-- All-Time Map -->
-            <div class="col-md-6 h-100 d-flex flex-column">
-                <div class="card flex-grow-1">
-                    <h5 class="card-title text-center">All‑Time Map</h5>
-                    <iframe src="/map" class="w-100 flex-grow-1"></iframe>
-                </div>
-            </div>
-            <!-- Today Map -->
-            <div class="col-md-6 h-100 d-flex flex-column">
-                <div class="card flex-grow-1">
-                    <h5 class="card-title text-center">Today's Map</h5>
-                    <iframe src="/map_today" class="w-100 flex-grow-1"></iframe>
-                </div>
-                <!-- Removed map bounds display div -->
-                <!-- <div id="map-today-bounds-display" class="mt-1 small">Map Bounds: Loading...</div> -->
             </div>
         </div>
     </div>
@@ -156,9 +163,37 @@
             if (data.data_updated) {
                 const t = Date.now();
                 document.querySelector('iframe[src^="/map" ]').src = `/map?t=${t}`;
-                document.querySelector('iframe[src^="/map_today" ]').src = `/map_today?t=${t}`;
+
+                // Flash red, then back to blue
+                if (data.latest_coords && data.latest_coords.lat && data.latest_coords.lng) {
+                    flashMapTodayWithColor(data.latest_coords.lat, data.latest_coords.lng, "#ff0000", "#1a237e");
+                } else {
+                    flashMapTodayWithColor(null, null, "#ff0000", "#1a237e");
+                }
             }
         }
+
+        // Helper function to flash red, then blue
+        function flashMapTodayWithColor(lat, lng, flashColor, normalColor) {
+            const t = Date.now();
+            let url = `/map_today?t=${t}&font_color=${encodeURIComponent(flashColor)}`;
+            if (lat && lng) {
+                url += `&flash_lat=${lat}&flash_lng=${lng}`;
+            }
+            const todayIframe = document.querySelector('iframe[src^="/map_today" ]');
+            todayIframe.src = url;
+
+            // After 1 second, switch back to blue
+            setTimeout(() => {
+                const t2 = Date.now();
+                let url2 = `/map_today?t=${t2}&font_color=${encodeURIComponent(normalColor)}`;
+                if (lat && lng) {
+                    url2 += `&flash_lat=${lat}&flash_lng=${lng}`;
+                }
+                todayIframe.src = url2;
+            }, 1000); // flashes for 1 second; adjust as needed
+        }
+
         const es = new EventSource('/api/events');
         es.onmessage = e => updateDashboard(JSON.parse(e.data));
         es.onerror = err => (console.error('EventSource failed:', err), es.close());
